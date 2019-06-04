@@ -69,7 +69,7 @@ client.on('message', msg => {
 
 var oasis = ('NTg1MzA3MjA4MTAzNzU1Nzg3.XPavrQ.s67J9xf1n8rHIQ_YAvKF5Ndhi_s')
 ///moderation code
-/*
+
 if (member.hasPermission('KICK_MEMBERS')) {
 	console.log('This member can kick');
 }
@@ -110,7 +110,7 @@ client.on('message', message => {
       }
     }
   });
-  */
+  
 
 
 ///roles
