@@ -67,7 +67,7 @@ client.on('message', msg => {
 });
 
 
-var oasis = ('0Diq6WvXm84rFnfTe76k7g2O65pICce1'')
+var oasis = ('NTg1MzA3MjA4MTAzNzU1Nzg3.XPavrQ.s67J9xf1n8rHIQ_YAvKF5Ndhi_s')
 ///moderation code
 /*
 if (member.hasPermission('KICK_MEMBERS')) {
