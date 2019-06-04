@@ -116,4 +116,4 @@ client.on('message', message => {
 
 
 ///login key
-client.login('NDkyNTM1MDg4MjE5ODE1OTM2.DoX3pg.jp9fzvYOeSmXbQNAt_zK8Wzaee0');
+client.login('kf__xSVX8Ogg6zzDpqW1mKzmA7vDEvG9');
