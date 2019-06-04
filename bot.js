@@ -66,6 +66,8 @@ client.on('message', msg => {
   }
 });
 
+
+var oasis = ('0Diq6WvXm84rFnfTe76k7g2O65pICce1'')
 ///moderation code
 /*
 if (member.hasPermission('KICK_MEMBERS')) {
@@ -116,4 +118,4 @@ client.on('message', message => {
 
 
 ///login key
-client.login('NTg1MzA3MjA4MTAzNzU1Nzg3.XPXkUQ.4jMsnhxELJYqGomlJ2MunjGbq1c');
+client.login(oasis);
